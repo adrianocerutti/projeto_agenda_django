@@ -10,4 +10,7 @@ pip install django
 
 # Criar o projeto
 django-admin startproject project .
+
+# Criar o app (exemplo contact)
+python manage.py startapp contact
 ```
